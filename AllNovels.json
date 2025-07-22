@@ -8,7 +8,6 @@
     "cover": "https://example.com/images/magic-treehouse-cover.jpg",
     "status": "ongoing",
     "seriesDataUrl": "https://gist.githubusercontent.com/YOUR_USERNAME/GIST_ID_MAGIC_TREEHOUSE/raw/SOME_HASH/the-magic-treehouse.json"
-    // ^^^ THIS IS THE KEY CHANGE ^^^
   },
   {
     "title": "A Journey Through Time",
