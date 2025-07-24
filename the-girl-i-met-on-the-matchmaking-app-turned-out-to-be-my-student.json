@@ -7,10 +7,15 @@
   "genres": ["Harem", "Romance", "School Life"],
   "status": "Ongoing",
   "chapters": {
-    "chapter-1": {
+    "chapter-0": {
       "title": "Prolouge",
       "last_updated": 1678886400000,
       "url": "chapter1.mdx"
+    },
+    "chapter-1": {
+      "title": "Panel Magic",
+      "last_updated": 1678886400000,
+      "url": "chapter2.mdx"
     }
   }
 }
