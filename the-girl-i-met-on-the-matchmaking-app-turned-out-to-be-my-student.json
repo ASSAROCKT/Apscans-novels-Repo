@@ -8,11 +8,13 @@
   "status": "Ongoing",
   "chapters": {
     "chapter-0": {
+      "volume": "1",
       "title": "Prolouge",
       "last_updated": 1678886400000,
       "url": "chapter1.mdx"
     },
     "chapter-1": {
+      "volume": "1",
       "title": "Panel Magic",
       "last_updated": 1678886400000,
       "url": "chapter2.mdx"
